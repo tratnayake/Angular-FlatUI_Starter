@@ -1,0 +1,12 @@
+body .hero {
+  text-align: center; }
+
+body #sidebar-wrapper {
+  background-color: #112233; }
+
+.circle-border {
+  border: 3px solid #000;
+  height: 191px;
+  width: 133px;
+  -webkit-border-radius: 75px;
+  -moz-border-radius: 75px; }
